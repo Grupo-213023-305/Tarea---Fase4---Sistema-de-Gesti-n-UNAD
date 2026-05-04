@@ -1,7 +1,4 @@
 # Software FJ
-#Santiago Bernal Pertuz 
-#Programación
-#Se requiere agregar la clase principal "Servicio para que el código este completo"
 #..........Alquiler de equipos..........
 #Importamos abc para crear clases abstractas 
 #abstractmethod es un decorador que hace que las clases hijas  implementes métodos
