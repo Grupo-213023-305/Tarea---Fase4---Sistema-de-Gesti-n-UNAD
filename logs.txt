@@ -1,1 +1,10 @@
---- LOGS DE OPERACIONES SOFTWARE FJ ---
+2026-05-12 11:56:24,631 - ERROR - Fallo en Alquiler: El equipo EQ-012 no existe.
+2026-05-12 11:56:42,589 - INFO - Alquiler EXITOSO: EQ-001 a las 3:00
+2026-05-12 11:57:10,579 - ERROR - Fallo en Devolución: El equipo EQ-012 no existe.
+2026-05-12 11:57:25,176 - INFO - Devolución EXITOSA: EQ-001. Total: $225000
+2026-05-12 11:57:47,461 - ERROR - Fallo en Devolución: No estaba alquilado.
+2026-05-12 11:58:14,412 - ERROR - Error en Módulo Reservas: Email no válido.
+2026-05-12 11:59:09,866 - INFO - Reserva PROCESADA para Santiago - Costo: $535500.0
+2026-05-12 11:59:49,903 - ERROR - Error en Módulo Reservas: Teléfono debe ser numérico.
+2026-05-12 12:00:48,444 - INFO - Reserva PROCESADA para Santiago - Costo: $449820.0
+2026-05-12 12:01:47,580 - INFO - Alquiler EXITOSO: EQ-004 a las 8:00
